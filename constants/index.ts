@@ -1,6 +1,6 @@
 import { SocialLinkModule } from "@/types/index.ts";
 import { TelegramIcon } from "@/components/Socials/Telegram.tsx";
-import { GitHubIcon } from "@/components/Socials/Github.tsx";
+import { GitHubIcon } from "@/components/Socials/GitHub.tsx";
 import { GmailIcon } from "@/components/Socials/Gmail.tsx";
 import { LinkedinIcon } from "@/components/Socials/Linkedin.tsx";
 

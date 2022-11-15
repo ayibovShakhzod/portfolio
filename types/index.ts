@@ -3,7 +3,7 @@ import { FunctionComponent, JSX } from "preact";
 export interface SocialLinkModule {
   id: number;
   href: string;
-  Icon: FunctionComponent<JSX.SVGAttributes>;
+  Icon: FunctionComponent;
   title: string;
 }
 
