@@ -1,6 +1,6 @@
 import { FunctionComponent, JSX } from "preact";
 
-export const GitHubIcon: FunctionComponent<JSX.SVGAttributes> = (props) => {
+export function GitHubIcon (props: FunctionComponent<JSX.SVGAttributes>) {
   return (
     <svg
       fill="currentColor"
