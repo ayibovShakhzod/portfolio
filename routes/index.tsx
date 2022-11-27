@@ -10,7 +10,7 @@ export default function Home() {
       <Head>
         <title>Shakhzod Ayibjonov</title>
       </Head>
-      <img class="figure" src="/figure.svg" />
+      <div class="postion-absolute"><img class="figure" src="/figure.svg" /></div>
       <div class="min-h-screen">
         <div class="py-10 lg:px-0 px-4 mx-auto max-w-screen-lg">
           <div class="flex flex-col">
