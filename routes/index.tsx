@@ -6,10 +6,11 @@ import { skills } from "../constants/data.ts";
 
 export default function Home() {
   return (
-    <html>
+    <html class="position-relative">
       <Head>
         <title>Shakhzod Ayibjonov</title>
       </Head>
+      <img class="figure" src="/figure.svg" />
       <div class="min-h-screen">
         <div class="py-10 lg:px-0 px-4 mx-auto max-w-screen-lg">
           <div class="flex flex-col">
@@ -28,7 +29,7 @@ export default function Home() {
               </a>
             ))}
           </div>
-          <p class="mt-4">
+          <p class="mt-4 w-[85%]">
             Software Engineer with great potential towards being outstanding
             candidate in this field. Eager to learn latest technologies and
             confident about facing new challenges. Continuously work towards

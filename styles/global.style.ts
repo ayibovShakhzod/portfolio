@@ -33,10 +33,22 @@ export const GlobalStyle = css`
     },
   ],
 }}
+  html {
+    overflow-x: hidden;
+  }
   body {
     font-family: 'Montserrat';
     background-color: ${theme(`colors.mainBg`)};
+    width: 100%;
     ${apply`dark:bg-darkBg text-blue-900 dark:text-white`}
+  }
+
+  .figure {
+    position: absolute;
+    top: -300px;
+    right: -180px;
+    width: 50%;
+    height: auto;
   }
 
 `;
