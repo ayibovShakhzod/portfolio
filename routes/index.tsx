@@ -63,9 +63,92 @@ export default function Home() {
                     Full-time · May, 2021 - Present
                   </span>
                 </div>
-                <span class="">
-                  Bictory Finance is a financial technology company.
-                </span>
+                <div class="">
+                  <p>Bictory Finance is a financial technology company.</p>
+
+                  <p>
+                    Frontend engineer with 1.5+ years working for a blockchain
+                    agnostic company specializing on React JS, Typescript and
+                    Web3.
+                  </p>
+                  <b class="flex mt-3">Feedback from PM:</b>
+                  <ul class="flex flex-col gap-4 list-disc pl-5">
+                    <li>
+                      Managed website development for 4 products i.e{" "}
+                      <a
+                        href="https://bictory.art/"
+                        class="text-blue-500 italic"
+                        target="_blank"
+                      >
+                        NFT Marketplace{" "}
+                      </a>
+                      + dashboard,{" "}
+                      <a
+                        href="https://app.ccd.domains/"
+                        class="text-blue-500 italic"
+                        target="_blank"
+                      >
+                        Domain Name Service{" "}
+                      </a>
+                      + dashboard,{" "}
+                      <a
+                        href="https://bictory.exchange/"
+                        class="text-blue-500 italic"
+                        target="_blank"
+                      >
+                        Centralized Exchange{" "}
+                      </a>
+                      + dashboard,{" "}
+                      <a
+                        href="https://bictory.io/"
+                        class="text-blue-500 italic"
+                        target="_blank"
+                      >
+                        Website
+                      </a>, from the initial stage to the completion stage.
+                    </li>
+                    <li>
+                      Has a great understanding of design patterns, web
+                      architecture and Restful APIs.
+                    </li>
+                    <li>
+                      Developed web apps using front end development tools such
+                      as HTML, Javascript, Typescript, React, NextJS, CSS, Sass,
+                      Web3.
+                    </li>
+                    <li>
+                      Implemented improvements in web, mobile responsiveness and
+                      functionality.
+                    </li>
+                    <li>Trained and mentored new front-end developers.</li>
+                    <li>
+                      Build beautiful user interface based on product usability,
+                      customer experience, feedback from stakeholders, customers
+                      and team.
+                    </li>
+                    <li>
+                      Track record of operating independently, demonstrating
+                      creativity, being detail oriented, and delivering results
+                      in an organized manner.
+                    </li>
+                    <li>
+                      Proficient skills in using Git version control and Build
+                      systems.
+                    </li>
+                    <li>
+                      Proficient skills in using design tools such as Figma and
+                      Adobe 😆.
+                    </li>
+                    <li>
+                      Experience working with Agile environment and comfortable
+                      using tools such as Jira and Confluence.
+                    </li>
+                    <li>
+                      Enforces best practices to ensure production ready web
+                      applications.
+                    </li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>

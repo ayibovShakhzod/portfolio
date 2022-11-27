@@ -12,6 +12,7 @@ export const Colors = {
   },
   mainBg: "#EDF2F4",
   white: "#ffffff",
+  darkBg: "#13111a",
   yellow: {
     200: "#FFFAD6",
     500: "#F5D800",
@@ -35,6 +36,7 @@ export const GlobalStyle = css`
   body {
     font-family: 'Montserrat';
     background-color: ${theme(`colors.mainBg`)};
-    ${apply`dark:bg-blue-900 text-blue-900 dark:text-white`}
+    ${apply`dark:bg-darkBg text-blue-900 dark:text-white`}
   }
+
 `;

@@ -27,11 +27,11 @@ export const skills = [
     title: "Soft skills",
     childrens: [
       "Discipline",
-      "Teamwork",
-      "Communcability",
-      "Proactivity",
-      "Fast learner",
-      "Creativity",
+      "Teamplayer",
+      "Excellent Communicator",
+      "Proactive",
+      "Quick to adapt",
+      "Creative",
     ],
   },
   {
