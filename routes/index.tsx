@@ -72,7 +72,6 @@ export default function Home() {
                     agnostic company specializing on React JS, Typescript and
                     Web3.
                   </p>
-                  <b class="flex mt-3">Feedback from PM:</b>
                   <ul class="flex flex-col gap-4 list-disc pl-5">
                     <li>
                       Managed website development for 4 products i.e{" "}
@@ -138,7 +137,7 @@ export default function Home() {
                     </li>
                     <li>
                       Proficient skills in using design tools such as Figma and
-                      Adobe 😆.
+                      Adobe.
                     </li>
                     <li>
                       Experience working with Agile environment and comfortable
