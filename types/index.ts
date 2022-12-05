@@ -1,9 +1,9 @@
-import { FunctionComponent, JSX } from "preact";
+import { FunctionComponent } from "preact";
 
 export interface SocialLinkModule {
   id: number;
   href: string;
-  Icon: FunctionComponent;
+  Icon: FunctionComponent | any;
   title: string;
 }
 

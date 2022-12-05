@@ -21,6 +21,10 @@ export const Colors = {
     200: "#FADBDE",
     500: "#E42535",
   },
+  green: {
+    200: "#dbfedb",
+    500: "#77d124",
+  },
 };
 
 export const GlobalStyle = css`
@@ -34,21 +38,38 @@ export const GlobalStyle = css`
   ],
 }}
   html {
+    width: 100%;
     overflow-x: hidden;
   }
   body {
     font-family: 'Montserrat';
     background-color: ${theme(`colors.mainBg`)};
     width: 100%;
-    ${apply`dark:bg-darkBg text-blue-900 dark:text-white`}
+    ${apply`dark:bg-darkBg text-blue-900 dark:text-white`};
+    position: relative;
+    overflow: hidden;
   }
 
   .figure {
     position: absolute;
-    top: -300px;
-    right: -180px;
-    width: 50%;
+    top: -45vh;
+    right: -15vw;
+    width: 50vw;
+    max-width: 720px;
     height: auto;
-  }
+    z-index: 9;
+    @media (max-width: 960px) {
+      top: -150px;
+    }
 
+    @media (max-width: 600px) {
+      width: 75%;
+      top: -180px;
+      right: -200px;
+    }
+
+    @media (max-width: 450px) {
+      right: -80px;
+    }
+  }
 `;
