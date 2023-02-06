@@ -79,7 +79,7 @@ export default function Home() {
                   </span>
                 </div>
                 <span class="font-medium">
-                  Part-time · Jan, 2022 - Present
+                  Part-time · Jan, 2022 - Jan, 2023
                 </span>
                 <div class="mt-4">
                   <p>
@@ -113,7 +113,7 @@ export default function Home() {
                   </span>
                 </div>
                 <span class="font-medium">
-                  Part-time · Aug, 2021 - Present
+                  Part-time · Aug, 2021 - Jan, 2023
                 </span>
                 <div class="mt-4">
                   <p>
@@ -150,7 +150,7 @@ export default function Home() {
                   </span>
                 </div>
                 <span class="font-medium">
-                  Full-time · May, 2021 - Present
+                  Full-time · May, 2021 - Jan, 2023
                 </span>
                 <div class="mt-4">
                   <p>Bictory Finance is a financial technology company.</p>
